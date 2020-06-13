@@ -1,0 +1,4 @@
+.*/*
+data/*
+mlruns/*
+notebooks/.ipynb_checkpoints/*
